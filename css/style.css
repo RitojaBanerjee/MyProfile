@@ -1,0 +1,35 @@
+.gradient1{
+    background-color: #96B6C5;
+}
+
+.gradient2{
+    background-color: #EEE0C9;
+}
+
+.gradient3{
+    background-color: #bdd7e2;
+}
+
+.gradient4{
+    background-color: #b9d2dd69;
+}
+
+.un{
+    text-decoration: none;
+    color: black;
+}
+
+
+.hd{
+    font: emphasis;
+    font-size: 2rem;
+    font-weight: 700;
+    padding: 5%;
+    text-align: center;
+}
+
+.pad{
+    padding-top: 15%;
+    padding-bottom: 3%;
+}
+
